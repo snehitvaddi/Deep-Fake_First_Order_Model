@@ -8,12 +8,10 @@ This repository is taken from Youtube channel [Two Minute Papers](https://www.yo
 ### Example on my own Data
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif)
 ### Installation
-
 This code supports ```python3```. To install the dependencies run:
 ```
 pip install -r requirements.txt
 ```
-
 ### Pre-trained checkpoint
 Checkpoints can be found under following link: [google-drive](https://drive.google.com/open?id=1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH) or [yandex-disk](https://yadi.sk/d/lEw8uRm140L_eQ).
 
