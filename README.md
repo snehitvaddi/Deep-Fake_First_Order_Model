@@ -2,11 +2,12 @@
 
 This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
 This repository is taken from Youtube channel [Two Minute Papers](https://www.youtube.com/watch?v=mUfJOQKdtAk&t=17s)
-
 ## Example Animation
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif)
 ### Example on my own Data
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif)
+### COLAB DEMO
+You can run this code from  [GOOGLE COLAB](https://colab.research.google.com/drive/11YHTBYpBDoG28RwmVKj2VYt2jBblMh1M#scrollTo=aOE_W_kfC9aX)
 ### Installation
 This code supports ```python3```. To install the dependencies run:
 ```
@@ -28,10 +29,6 @@ git clone https://github.com/1adrianb/face-alignment
 cd face-alignment
 pip install -r requirements.txt
 python setup.py install
-```
-
-### Colab Demo 
-We prepare a special demo for the google-colab, see: ``` Deep Fake Demo.ipynb```.
 
 ### Training on your own dataset
 1) Resize all the videos to the same size e.g 256x256, the videos can be in '.gif', '.mp4' or folder with images.
