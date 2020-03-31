@@ -5,7 +5,8 @@ This repository is taken from Youtube channel [Two Minute Papers](https://www.yo
 
 ## Example Animation
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif)
-
+### Example on my own Data
+![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif)
 ### Installation
 
 This code supports ```python3```. To install the dependencies run:
