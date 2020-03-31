@@ -1,7 +1,7 @@
 # First Order Motion Model for Image Animation
 
 This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
-This repository is taken from Youtube channel [Two Minute Papers](https://www.youtube.com/watch?v=mUfJOQKdtAk&t=17s)
+This repository is taken from a Youtube video by [Two Minute Papers](https://www.youtube.com/watch?v=mUfJOQKdtAk&t=17s)
 ## Example Animation
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif)
 ### Example on my own Data
