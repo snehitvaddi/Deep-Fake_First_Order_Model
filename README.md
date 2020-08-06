@@ -11,7 +11,7 @@ Two Minute Papers Youtube Video Link : [Youtube-Video](https://www.youtube.com/w
 ### Example on my own Data
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif)
 ### COLAB DEMO
-You can run this code from  [GOOGLE COLAB](https://colab.research.google.com/drive/11YHTBYpBDoG28RwmVKj2VYt2jBblMh1M#scrollTo=aOE_W_kfC9aX)
+You can run this code from  [GOOGLE COLAB](https://colab.research.google.com/drive/11YHTBYpBDoG28RwmVKj2VYt2jBblMh1M?usp=sharing)
 ### Installation
 This code supports ```python3```. To install the dependencies run:
 ```
