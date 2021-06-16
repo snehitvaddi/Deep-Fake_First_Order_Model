@@ -6,11 +6,10 @@ This repository is taken from a Youtube video by [Two Minute Papers](https://www
 Original Aliaksandr Siarohin Repo: [Github](https://github.com/AliaksandrSiarohin/first-order-model)<br>
 Two Minute Papers Youtube Video Link : [Youtube-Video](https://www.youtube.com/watch?v=mUfJOQKdtAk&t=17s)
 
-### 📝 My Animation
-
-<a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif" width="700" height="350"></a>
-### 🖼 Example on my own Data
-![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif)
+### 📝 Model Output
+![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif)
+### 🖼 Example on Custom Data
+<a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif" width="700" height="350"></a>
 ### 🔬 COLAB DEMO
 You can run this code from  [GOOGLE COLAB](https://colab.research.google.com/drive/11YHTBYpBDoG28RwmVKj2VYt2jBblMh1M?usp=sharing)
 ### 📌 Installation
