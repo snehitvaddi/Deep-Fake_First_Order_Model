@@ -9,7 +9,7 @@ Two Minute Papers Youtube Video Link : [Youtube-Video](https://www.youtube.com/w
 ### 📝 Model Output
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif)
 ### 🖼 Example on Custom Data
-<a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif" width="700" height="350"></a>
+<img src="https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif" width="700" height="350"></a>
 ### 🔬 COLAB DEMO
 You can run this code from  [GOOGLE COLAB](https://colab.research.google.com/drive/11YHTBYpBDoG28RwmVKj2VYt2jBblMh1M?usp=sharing)
 ### 📌 Installation
