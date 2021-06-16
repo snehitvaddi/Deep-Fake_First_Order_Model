@@ -6,8 +6,9 @@ This repository is taken from a Youtube video by [Two Minute Papers](https://www
 Original Aliaksandr Siarohin Repo: [Github](https://github.com/AliaksandrSiarohin/first-order-model)<br>
 Two Minute Papers Youtube Video Link : [Youtube-Video](https://www.youtube.com/watch?v=mUfJOQKdtAk&t=17s)
 
-### 📝 Example Animation
-![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif)
+### 📝 My Animation
+
+<a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/vox-teaser.gif" width="700" height="350"></a>
 ### 🖼 Example on my own Data
 ![Screenshot](https://github.com/snehitvaddi/Deep-Fake_First_Order_Model/blob/master/sup-mat/download.gif)
 ### 🔬 COLAB DEMO
